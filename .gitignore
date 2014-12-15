@@ -1,0 +1,4 @@
+*.out
+client
+server
+*.sw*
